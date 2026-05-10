@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/logo.png" alt="TvQo Logo" width="200"/>
+  <img src="./assets/images/logo.png" alt="TvQo Logo" width="200"/>
   <h1>TvQo - Quran TV App 📖📺</h1>
 </div>
 
