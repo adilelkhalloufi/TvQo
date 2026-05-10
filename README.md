@@ -1,4 +1,7 @@
-# TvQo - Quran TV App 📖📺
+<div align="center">
+  <img src="assets/images/logo.png" alt="TvQo Logo" width="200"/>
+  <h1>TvQo - Quran TV App 📖📺</h1>
+</div>
 
 A beautiful React Native TV application for listening to Quran recitations with real-time verse display and auto-scrolling. Designed specifically for TV screens with full remote control support.
 
